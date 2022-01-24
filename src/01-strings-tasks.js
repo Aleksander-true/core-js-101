@@ -22,7 +22,6 @@ function concatenateStrings(value1, value2) {
   return value1 + value2;
 }
 
-
 /**
  * Returns the length of given string.
  *
@@ -159,6 +158,7 @@ function unbracketTag(str) {
 function convertToUpperCase(str) {
   return str.toUpperCase();
 }
+
 
 /**
  * Extracts e-mails from single string with e-mails list delimeted by semicolons
